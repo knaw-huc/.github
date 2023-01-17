@@ -1,0 +1,5 @@
+{
+    "name": "KNAW/HUC Basic Workflow",
+    "description": "Starter workflow for KNAW projects, builds and pushes an image",
+    "iconName": "octicon play"
+}
